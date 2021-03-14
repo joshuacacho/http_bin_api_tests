@@ -1,0 +1,2 @@
+# http_bin_api_tests
+postman collection http_bin_api_tests
