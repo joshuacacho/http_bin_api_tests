@@ -1,1 +1,2 @@
-https://www.getpostman.com/collections/322473cdb4fbe7418229
+# http_bin_api_tests
+postman collection http_bin_api_tests
